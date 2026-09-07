@@ -17,7 +17,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
             applicationVariants.all { variant ->
                 variant.outputs.each { output ->
-                    output.outputFileName = new File("MarinKitagawa.apk")
+                    output.outputFileName = new File("supercarXmio.apk")
                 }
             }
         }
@@ -25,7 +25,7 @@ android {
     lint {
         disable 'MissingTranslation'
     }
-    namespace 'com.qii.marinkitagawa'
+    namespace 'com.qii.supercarXmio'
 }
 
 dependencies {

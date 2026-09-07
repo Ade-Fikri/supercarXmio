@@ -30,7 +30,7 @@
 
         <provider
             android:name=".MyThemeProvider"
-            android:authorities="com.qii.marinkitagawa"
+            android:authorities="com.qii.supercarXmio"
             android:exported="true" >
 
             <!-- use your package name for authorities -->

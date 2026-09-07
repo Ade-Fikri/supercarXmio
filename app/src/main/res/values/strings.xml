@@ -1,8 +1,8 @@
 <resources>
 
-    <string name="app_name">Marin Kitagawa - qii</string>
-    <string name="label">Marin Kitagawa</string>
-    <string name="description">A golden theme inspired by Marin Kitagawa. Soft, warm, and aesthetic.</string>
+    <string name="app_name">Supercar X Mio - qii</string>
+    <string name="label">GT-R NISMO X Mio</string>
+    <string name="description">A Nissan GT-R Nismo and Haimiya Mio creating an elegant homescreen.</string>
     <string name="apply">✦  APPLY THEME</string>
     <string name="not_installed">Not installed</string>
     <string name="install_total">Total launcher is not installed or too low version to apply this theme. Install/update it?</string>
