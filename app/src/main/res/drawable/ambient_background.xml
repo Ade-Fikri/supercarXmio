@@ -2,12 +2,14 @@
 
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
 
+    <!-- Base background -->
     <item>
         <shape android:shape="rectangle">
             <solid android:color="@color/theme_background" />
         </shape>
     </item>
 
+    <!-- Accent ambient -->
     <item>
         <shape android:shape="rectangle">
             <gradient
@@ -15,9 +17,9 @@
                 android:centerX="50%"
                 android:centerY="25%"
                 android:gradientRadius="500dp"
-                android:startColor="#45DEA942"
-                android:centerColor="#20DEA942"
-                android:endColor="#0015110E" />
+                android:startColor="@color/theme_accent"
+                android:centerColor="@color/theme_accent"
+                android:endColor="#00111111" />
         </shape>
     </item>
 
