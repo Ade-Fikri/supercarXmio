@@ -9,16 +9,17 @@
         </shape>
     </item>
 
-    <!-- Accent ambient -->
+    <!-- Subtle red ambient glow -->
+    <!-- Start : Alpha 16% , center : Alpha : 8% , end : Transparant -->
     <item>
         <shape android:shape="rectangle">
             <gradient
                 android:type="radial"
                 android:centerX="50%"
-                android:centerY="25%"
-                android:gradientRadius="500dp"
-                android:startColor="@color/theme_accent"
-                android:centerColor="@color/theme_accent"
+                android:centerY="18%"
+                android:gradientRadius="650dp"
+                android:startColor="#2AD32F2F"
+                android:centerColor="#14D32F2F"
                 android:endColor="#00111111" />
         </shape>
     </item>
